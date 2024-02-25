@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        
+        {
+            "type": "java",
+            "name": "PasswordScene",
+            "request": "launch",
+            "mainClass": "PasswordScene",
+            "projectName": "LoginForm.java_206f3394"
+        },
+        {
+            "type": "java",
+            "name": "CustomAlert",
+            "request": "launch",
+            "mainClass": "CustomAlert",
+            "projectName": "LoginForm.java_206f3394"
+        },
+        {
+            "type": "java",
+            "name": "JavaFXLoginForm",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/cnpsh/Downloads/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "JavaFXLoginForm",
+            "projectName": "LoginForm.java_206f3394"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "LoginForm.java_206f3394"
+        },
+        {
+            "type": "java",
+            "name": "LoginForm",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/cnpsh/Downloads/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "LoginForm",
+            "projectName": "LoginForm.java_206f3394"
+        }
+    ]
+}
